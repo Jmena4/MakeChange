@@ -26,10 +26,10 @@ The program also rounds the values to the nearest whole number using the Math.ro
 the monetary values in the Change Bills array are called upon. The print line displays the result total, counter quantity for 
 each denominations, and the associated montary face value from the Change Bill String array. 
 
-# OOPs Concepts used  
+### OOPs Concepts used  
 * Java SE/EE Fundamentals
 
-# Tools Used
+### Tools Used
 * Java
 * Git
 * Eclipse IDE
